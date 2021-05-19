@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Noa_ex4_c.dir/main.c.o CMakeFiles/Noa_ex4_c.dir/pair.c.o CMakeFiles/Noa_ex4_c.dir/vector.c.o CMakeFiles/Noa_ex4_c.dir/hashmap.c.o CMakeFiles/Noa_ex4_c.dir/test_suite.c.o  -o Noa_ex4_c.exe -Wl,--out-implib,libNoa_ex4_c.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

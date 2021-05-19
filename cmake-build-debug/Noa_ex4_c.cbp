@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Noa_ex4_c"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Noa_ex4_c">
+				<Option output="/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/cmake-build-debug/Noa_ex4_c.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 Noa_ex4_c"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Noa_ex4_c/fast">
+				<Option output="/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/cmake-build-debug/Noa_ex4_c.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 Noa_ex4_c/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/hash_funcs.h">
+			<Option target="Noa_ex4_c"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/hashmap.c">
+			<Option target="Noa_ex4_c"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/hashmap.h">
+			<Option target="Noa_ex4_c"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/main.c">
+			<Option target="Noa_ex4_c"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/pair.c">
+			<Option target="Noa_ex4_c"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/pair.h">
+			<Option target="Noa_ex4_c"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/pair_char_int.h">
+			<Option target="Noa_ex4_c"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/test_pairs.h">
+			<Option target="Noa_ex4_c"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/test_suite.c">
+			<Option target="Noa_ex4_c"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/test_suite.h">
+			<Option target="Noa_ex4_c"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/vector.c">
+			<Option target="Noa_ex4_c"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/vector.h">
+			<Option target="Noa_ex4_c"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/danie/CLionProjects/Noa-ex4-c/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
